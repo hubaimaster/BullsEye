@@ -5,6 +5,71 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>47999EFA-0D95-4558-8FDB-9B5B43844609</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>47999EFA-0D95-4558-8FDB-9B5B43844609.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BullsEye project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BullsEye</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BullsEye</string>
+			<key>timeStartedRecording</key>
+			<real>575741090.25648296</real>
+			<key>timeStoppedRecording</key>
+			<real>575741141.14834094</real>
+			<key>title</key>
+			<string>Debug BullsEye</string>
+			<key>uniqueIdentifier</key>
+			<string>47999EFA-0D95-4558-8FDB-9B5B43844609</string>
+		</dict>
+		<key>683F3E15-5E44-41D8-B091-652FE8D9A19C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>683F3E15-5E44-41D8-B091-652FE8D9A19C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BullsEye project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BullsEye</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BullsEye</string>
+			<key>timeStartedRecording</key>
+			<real>575740995.79568195</real>
+			<key>timeStoppedRecording</key>
+			<real>575741088.42560804</real>
+			<key>title</key>
+			<string>Debug BullsEye</string>
+			<key>uniqueIdentifier</key>
+			<string>683F3E15-5E44-41D8-B091-652FE8D9A19C</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

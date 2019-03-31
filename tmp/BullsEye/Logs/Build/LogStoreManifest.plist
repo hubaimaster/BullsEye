@@ -5,6 +5,71 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>6F2A9E39-F28A-4819-8F96-9AA005682B0E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6F2A9E39-F28A-4819-8F96-9AA005682B0E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BullsEye project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BullsEye</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BullsEye</string>
+			<key>timeStartedRecording</key>
+			<real>575740992.97504604</real>
+			<key>timeStoppedRecording</key>
+			<real>575740995.83752</real>
+			<key>title</key>
+			<string>Build BullsEye</string>
+			<key>uniqueIdentifier</key>
+			<string>6F2A9E39-F28A-4819-8F96-9AA005682B0E</string>
+		</dict>
+		<key>D6EF6488-5739-4154-86C7-C221FC7E3A89</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6EF6488-5739-4154-86C7-C221FC7E3A89.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BullsEye project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BullsEye</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BullsEye</string>
+			<key>timeStartedRecording</key>
+			<real>575741088.86311603</real>
+			<key>timeStoppedRecording</key>
+			<real>575741090.30305099</real>
+			<key>title</key>
+			<string>Build BullsEye</string>
+			<key>uniqueIdentifier</key>
+			<string>D6EF6488-5739-4154-86C7-C221FC7E3A89</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

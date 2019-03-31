@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "8e39e2e3cfe0a16aab6cc5c979046847"
+build_time: [1554048288, 895062000]
+inputs:
+  "/Users/kchdully/Desktop/sogang-projects/capstone/BullsEye/BullsEye/ViewController.swift": [1554048287, 4043478]
+  "/Users/kchdully/Desktop/sogang-projects/capstone/BullsEye/BullsEye/AppDelegate.swift": [1554047220, 428291229]
